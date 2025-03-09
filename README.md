@@ -17,6 +17,27 @@ Each day's lesson is in a separate folder, containing:
 - `exercises.py` (Practice Tasks)
 - `solutions.py` (Solutions)
 
+## How to Use This Repository?
+1️⃣ Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/Python-for-Absolute-Beginners.git
+2️⃣ Navigate to a day's folder:
+
+bash
+Copy
+Edit
+cd Python-For-Beginners/Day-01
+3️⃣ Run the Python scripts:
+
+bash
+Copy
+Edit
+python Day-01.py
+4️⃣ Try the exercises and compare with solutions.
+
 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
