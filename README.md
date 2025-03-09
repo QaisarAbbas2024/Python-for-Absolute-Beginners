@@ -1,5 +1,6 @@
 # Python-for-Absolute-Beginners
 by [Qaisar Abbas](https://github.com/QaisarAbbas2024/)
+
 Welcome to the Python Learning Repository! 🚀
 Python is one of the most powerful and in-demand programming languages. This repository contains a structured 10-day course designed for absolute beginners to learn Python programming from scratch.
 
