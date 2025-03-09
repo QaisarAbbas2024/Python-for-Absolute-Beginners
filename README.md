@@ -23,7 +23,7 @@ Each day's lesson is in a separate folder, containing:
 [git clone](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners.git)
 
 2️⃣ Navigate to a day's folder:
-[cd](Python-For-Absolute-Beginners/Day-01.md)
+[cd](Day-01.md)
 
 3️⃣ Run the Python scripts:
 [python](Day-01.py)
