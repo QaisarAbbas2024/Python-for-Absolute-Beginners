@@ -20,13 +20,13 @@ Each day's lesson is in a separate folder, containing:
 ## How to Use This Repository?
 
 1️⃣ Clone the repo:
-git clone https://github.com/your-username/Python-for-Absolute-Beginners.git
+[git clone](https://github.com/your-username/Python-for-Absolute-Beginners.git)
 
 2️⃣ Navigate to a day's folder:
-cd Python-For-Beginners/Day-01
+[cd](Python-For-Absolute-Beginners/Day-01)
 
 3️⃣ Run the Python scripts:
-python Day-01.py
+[python](Day-01.py)
 
 4️⃣ Try the exercises and compare with solutions.
 
@@ -34,7 +34,7 @@ python Day-01.py
 ### 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
-📧 Email: qaisar701shan@gmail.com
+📧 Contact: [Email](qaisar701shan@gmail.com)
 🌐 LinkedIn: [My Profile](https://www.linkedin.com/in/qaisar-abbas2024/)
 
 Happy Coding! 🚀🐍
