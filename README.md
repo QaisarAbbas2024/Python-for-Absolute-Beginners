@@ -20,7 +20,7 @@ Each day's lesson is in a separate folder, containing:
 ## How to Use This Repository?
 
 1️⃣ Clone the repo:
-[git clone](https://github.com/your-username/Python-for-Absolute-Beginners.git)
+[git clone](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners.git)
 
 2️⃣ Navigate to a day's folder:
 [cd](Python-For-Absolute-Beginners/Day-01.md)
