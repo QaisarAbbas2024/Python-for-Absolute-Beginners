@@ -30,6 +30,7 @@ python Day-01.py
 
 4️⃣ Try the exercises and compare with solutions.
 
+### [Introductory Slides](https://docs.google.com/presentation/d/1MtS49cujCHNGnQuQUOePSOXJngB-XQs-aJl9D1qHJlU/edit#slide=id.p1)
 ### 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
