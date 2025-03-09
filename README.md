@@ -2,7 +2,7 @@
 Welcome to the Python Learning Repository! 🚀
 Python is one of the most powerful and in-demand programming languages. This repository contains a structured 10-day course designed for absolute beginners to learn Python programming from scratch.
 
-Python is more than just a programming language—it's a gateway to innovation and career opportunities in various fields, including:
+Python is more than just a programming language—it's a gateway to innovation and career opportunities in various fields of Science & Tech.
 
 ## Join Zoom Meeting at -- PM (GMT+5 Islamabad PKT)
 
