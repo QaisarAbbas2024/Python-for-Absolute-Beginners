@@ -37,7 +37,7 @@ Each day's lesson is in a separate folder, containing:
 ### 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
-📧 Contact: [Email](qaisar701shan@gmail.com)
+📧 Email: qaisar701shan@gmail.com
 🌐 LinkedIn: [My Profile](https://www.linkedin.com/in/qaisar-abbas2024/)
 
 Happy Coding! 🚀🐍
