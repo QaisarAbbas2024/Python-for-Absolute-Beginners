@@ -23,7 +23,7 @@ Each day's lesson is in a separate folder, containing:
 [git clone](https://github.com/your-username/Python-for-Absolute-Beginners.git)
 
 2️⃣ Navigate to a day's folder:
-[cd](Python-For-Absolute-Beginners/Day-01)
+[cd](Python-For-Absolute-Beginners/Day-01.md)
 
 3️⃣ Run the Python scripts:
 [python](Day-01.py)
@@ -31,6 +31,7 @@ Each day's lesson is in a separate folder, containing:
 4️⃣ Try the exercises and compare with solutions.
 
 ### [Introductory Slides](https://docs.google.com/presentation/d/1MtS49cujCHNGnQuQUOePSOXJngB-XQs-aJl9D1qHJlU/edit#slide=id.p1)
+
 ### 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
