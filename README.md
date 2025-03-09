@@ -30,7 +30,7 @@ python Day-01.py
 
 4️⃣ Try the exercises and compare with solutions.
 
-📩 Stay Connected
+### 📩 Stay Connected
 Stay updated with new lessons, exercises, and challenges.
 
 📧 Email: qaisar701shan@gmail.com
