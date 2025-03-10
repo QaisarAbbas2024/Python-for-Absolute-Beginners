@@ -26,8 +26,8 @@ This statement uses Python’s built-in print() function to display text output.
 Comments help explain code and make it more readable. In Python, comments start with a # symbol:
 
 ```diff
-! # This is a single-line comment ```
-
++ # This is a single-line comment
+```
 print("Comments make code easier to understand")
 
 Multi-line comments can be written using triple quotes (''' or """). While Python ignores comments during execution, they are essential for documentation and collaboration.
