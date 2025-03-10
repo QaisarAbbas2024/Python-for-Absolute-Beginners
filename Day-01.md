@@ -25,6 +25,9 @@ This statement uses Python’s built-in print() function to display text output.
 ### Comments in Python
 Comments help explain code and make it more readable. In Python, comments start with a # symbol:
 
+<span style="color:red">This is red text</span>
+<span style="color:blue">This is blue text</span>
+
 #This is a single-line comment
 print("Comments make code easier to understand")
 
