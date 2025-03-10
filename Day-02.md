@@ -4,7 +4,7 @@
 - Type Conversion
 - User Input and Output
 ---
-### Variables and Assignment
+### 🟢 Variables and Assignment
 A variable is a container for storing data values. In Python, variables do not need explicit declaration; they are created when a value is assigned:
 
       name = "Alice"
@@ -13,7 +13,7 @@ A variable is a container for storing data values. In Python, variables do not n
 
 Here, name stores a string, age an integer, and height a float. Python dynamically assigns data types based on the value.
 ***
-### Data Types: Numbers, Strings, Booleans
+### 🟢 Data Types: Numbers, Strings, Booleans
 Python supports various data types:
 
 **Numbers:** Integers (int), Floating-point numbers (float), Complex numbers (complex)
@@ -27,7 +27,7 @@ Python supports various data types:
       message = "Hello"  # String
       is_active = True  # Boolean
 ***
-### Type Conversion
+### 🟢 Type Conversion
 You can convert one data type to another using type conversion functions:
 
       x = 5        # Integer
@@ -37,7 +37,7 @@ You can convert one data type to another using type conversion functions:
 
 The functions int(), float(), and str() help in type conversion.
 ***
-### User Input and Output
+### 🟢 User Input and Output
 Python allows user input using the input() function, which always returns a string. You may need to convert it to another data type:
 
       name = input("Enter your name: ")
