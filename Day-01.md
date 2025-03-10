@@ -27,7 +27,7 @@ Comments help explain code and make it more readable. In Python, comments start 
 
 ```diff
 + # This is a single-line comment
-``` print("Comments make code easier to understand")
-
+ print("Comments make code easier to understand")
+```
 Multi-line comments can be written using triple quotes (''' or """). While Python ignores comments during execution, they are essential for documentation and collaboration.
 ***
