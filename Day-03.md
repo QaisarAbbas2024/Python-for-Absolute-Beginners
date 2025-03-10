@@ -4,7 +4,7 @@
 - Logical Operators
 - Operator Precedence
 ***
-### Arithmetic Operators
+### 🟢 Arithmetic Operators
 Python provides arithmetic operators to perform mathematical operations:
 
       x = 10
@@ -17,7 +17,7 @@ Python provides arithmetic operators to perform mathematical operations:
       print(x % y)  # Modulus (1)
       print(x ** y) # Exponentiation (1000)
 ***
-### Comparison Operators
+### 🟢 Comparison Operators
 Used to compare two values, returning True or False:
 
       a = 5
@@ -29,7 +29,7 @@ Used to compare two values, returning True or False:
       print(a >= b)  # False
       print(a <= b)  # True
 ***
-### Logical Operators
+### 🟢 Logical Operators
 Used to combine multiple conditions:
 
       x = True
@@ -38,7 +38,7 @@ Used to combine multiple conditions:
       print(x or y)   # True
       print(not x)    # False
 ***
-### Operator Precedence
+### 🟢 Operator Precedence
 Operators follow precedence rules, where multiplication and division are evaluated before addition and subtraction:
 
       result = 10 + 3 * 2  # 10 + 6 = 16
