@@ -17,7 +17,7 @@ Python programs can be executed in multiple ways: using an interactive shell (Py
 ### Writing Your First Python Program
 A basic Python program consists of simple statements. To print 'Hello, World!' in Python, you can write the following code:
 
-print <span style="color:red">Hello, World!</span>
+```diff - print("Hello, World!")
 
 This statement uses Python’s built-in print() function to display text output.
 ***
