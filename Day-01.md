@@ -20,7 +20,7 @@ A basic Python program consists of simple statements. To print 'Hello, World!' i
 print("Hello, World!")
 
 This statement uses Python’s built-in print() function to display text output.
-
+---
 ### Comments in Python
 Comments help explain code and make it more readable. In Python, comments start with a # symbol:
 
