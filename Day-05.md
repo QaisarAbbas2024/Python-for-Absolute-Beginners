@@ -29,9 +29,9 @@ A while loop runs as long as a condition remains True.
 ***
 ### 🟢 Break and Continue
 
-break exits the loop immediately.
+- **break** exits the loop immediately.
 
-continue skips the current iteration and proceeds to the next.
+- **continue** skips the current iteration and proceeds to the next.
 
       for num in range(10):
           if num == 5:
