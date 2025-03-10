@@ -35,12 +35,12 @@ Conditions can be nested to evaluate multiple levels of logic.
 ### 🟢 Logical Conditions
 Python provides logical operators (and, or, not) to combine multiple conditions.
 
-age = 25
-income = 40000
-if age > 18 and income > 30000:
-    print("Eligible for loan")
-else:
-    print("Not eligible for loan")
+      age = 25
+      income = 40000
+      if age > 18 and income > 30000:
+          print("Eligible for loan")
+      else:
+          print("Not eligible for loan")
 ***
 ### 🟢 Ternary Operator (Conditional Expressions)
 A compact way to write if-else conditions.
