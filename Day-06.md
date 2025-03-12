@@ -73,8 +73,8 @@ def person_details(**info):
 
 person_details(name="Eve", age=22, city="New York")
 ```
-
-🟢 **Scope of Variables**
+***
+### 🟢 Scope of Variables
 Variables can have local or global scope:
 
 - **Local Scope:** Variables inside a function.
