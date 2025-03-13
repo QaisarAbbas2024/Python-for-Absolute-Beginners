@@ -3,10 +3,10 @@
 <h3>A Day by Day Guide of Theory and Practices for Learning Python.</h3>
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Awesome-Python-Projects.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/network/)
+[![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Python-for-Absolute-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/QaisarAbbas2024/Python-for-Absolute-Beginners/network.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/QaisarAbbas2024/Python-for-Absolute-Beginners/stargazers/)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![GitHub Issues](https://img.shields.io/github/issues/QaisarAbbas2024/Visual-and-EDA-of-Corona-Virus.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/QaisarAbbas2024.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/issues)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 </div>
