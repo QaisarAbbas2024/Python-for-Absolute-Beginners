@@ -50,6 +50,10 @@ You can get in touch with me on my LinkedIn Profile:
 )](https://www.linkedin.com/in/qaisar-abbas2024)
 
 🌐 LinkedIn: [My Profile](https://www.linkedin.com/in/qaisar-abbas2024/)
+***
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 Happy Coding! 🚀🐍
 ***
