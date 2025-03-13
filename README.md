@@ -32,6 +32,7 @@ Each day's lesson is in a separate folder, containing:
 Stay updated with new lessons, exercises, and challenges.
 
 📧 Email: qaisar701shan@gmail.com
+
 You can get in touch with me on my LinkedIn Profile:
 
 #### Qaisar Abbas
