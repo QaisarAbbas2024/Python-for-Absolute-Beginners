@@ -1,4 +1,4 @@
-### **`lists_tuples.py`**
+### **🟢`lists_tuples.py`**
 ```python
 # Creating and accessing lists
 fruits = ["apple", "banana", "cherry", "orange"]
@@ -45,7 +45,7 @@ print("Extracted Colors:", x, y, z)
 
 ---
 
-### **🟢 Updated `exercises.py`**
+### **🟢`exercises.py`**
 ```python
 # Exercise: Lists and Tuples
 
