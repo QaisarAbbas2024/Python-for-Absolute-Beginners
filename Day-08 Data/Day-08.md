@@ -2,8 +2,6 @@
 - Creating and Accessing Dictionaries
 - Adding and Removing Items
 - Set Operations
-Here’s the detailed explanation and additional points for **Day 8: Dictionaries and Sets**, following the same style as previous days.  
-
 ---
 Dictionaries and sets are fundamental data structures in Python. **Dictionaries** store key-value pairs, while **sets** hold unique unordered items.
 
