@@ -26,7 +26,7 @@ car2 = Car("Honda", "Civic")
 car1.display_info()  # Output: This car is a Toyota Corolla
 car2.display_info()  # Output: This car is a Honda Civic
 ```
-
+***
 ### 🟢 **Methods and Attributes**
 - **Methods** are functions defined inside a class that perform actions.
 - **Attributes** store data related to an object.
@@ -44,7 +44,7 @@ class Person:
 p1 = Person("Alice", 30)
 p1.greet()  # Output: Hello, my name is Alice and I am 30 years old.
 ```
-
+***
 ### 🟢 **Inheritance**
 Inheritance allows one class (child) to inherit attributes and methods from another class (parent), promoting code reusability.
 
