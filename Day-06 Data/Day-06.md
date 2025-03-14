@@ -1,4 +1,4 @@
-## Day 6: Functions
+## 🔵 Day 6: Functions
 Functions allow us to group code into reusable blocks, making programs more organized and efficient.
 - Defining Functions
 - Function Arguments and Return Values
