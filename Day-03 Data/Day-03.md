@@ -1,4 +1,4 @@
-## Day 3: Operators and Expressions
+## 🔵 Day 3: Operators and Expressions
 - Arithmetic Operators
 - Comparison Operators
 - Logical Operators
