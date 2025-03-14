@@ -1,12 +1,8 @@
-### Day 10: Object-Oriented Programming (OOP)
+## 🔵 **Day 10: Object-Oriented Programming (OOP)**
 - Classes and Objects
 - Methods and Attributes
 - Inheritance
-Here’s a detailed breakdown of **Day 10: Object-Oriented Programming (OOP)** following the same style as previous days.  
-
 ---
-
-## **Day 10: Object-Oriented Programming (OOP)**
 Object-Oriented Programming (OOP) is a programming paradigm that organizes code using objects and classes. It helps structure programs in a way that models real-world entities, making the code more modular, reusable, and easier to maintain.
 
 ### 🟢 **Classes and Objects**
@@ -72,9 +68,3 @@ dog1.make_sound()  # Output: Woof! Woof!
 ```
 
 ---
-
-## **Updated Examples and Exercises for .py files**
-
-
-
-Let me know if you need any modifications! 🚀
