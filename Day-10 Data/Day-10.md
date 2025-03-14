@@ -1,9 +1,11 @@
 ## 🔵 **Day 10: Object-Oriented Programming (OOP)**
+Object-Oriented Programming (OOP) is a programming paradigm that organizes code using objects and classes. It helps structure programs in a way that models real-world entities, making the code more modular, reusable, and easier to maintain.
+📌 Topics Covered:
 - Classes and Objects
 - Methods and Attributes
 - Inheritance
 ---
-Object-Oriented Programming (OOP) is a programming paradigm that organizes code using objects and classes. It helps structure programs in a way that models real-world entities, making the code more modular, reusable, and easier to maintain.
+
 
 ### 🟢 **Classes and Objects**
 A **class** is a blueprint for creating objects, and an **object** is an instance of a class.
