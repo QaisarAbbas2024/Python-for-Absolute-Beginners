@@ -37,7 +37,9 @@ You can convert one data type to another using type conversion functions:
       z = float(x) # Convert integer to float
       w = int(y)   # Convert string to integer
 ```
-The functions int(), float(), and str() help in type conversion.
+```diff
+- The functions int(), float(), and str() help in type conversion.
+```
 ***
 ### 🟢 User Input and Output
 Python allows user input using the input() function, which always returns a string. You may need to convert it to another data type:
@@ -46,5 +48,7 @@ Python allows user input using the input() function, which always returns a stri
       age = int(input("Enter your age: "))
       print("Hello,", name, "You are", age, "years old.")
 ```
-The print() function is used for displaying output. It can take multiple arguments, separated by commas.
+```diff
+- The print() function is used for displaying output. It can take multiple arguments, separated by commas.
+```
 ***
