@@ -17,16 +17,19 @@ Python programs can be executed in multiple ways: using an interactive shell (Py
 ### 🟢 Writing Your First Python Program
 A basic Python program consists of simple statements. To print 'Hello, World!' in Python, you can write the following code:
 
+```python
+            print("Hello, World!")
+```
 ```diff
--            print("Hello, World!")
+- Hence a statement as print("Hello, World!") will display in terminal.
 ```
 This statement uses Python’s built-in print() function to display text output.
 ***
 ### 🟢 Comments in Python
 Comments help explain code and make it more readable. In Python, comments start with a # symbol:
 
-```diff
-+           # This is a single-line comment
+```python
+            # This is a single-line comment
             print("Comments make code easier to understand")
 ```
 Multi-line comments can be written using triple quotes (''' or """). While Python ignores comments during execution, they are essential for documentation and collaboration.
